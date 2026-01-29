@@ -1,8 +1,11 @@
 pip==25.3
-rich==13.8.1
+rich==13.7.1
 markdown-it-py==3.0.0
 mdurl==0.1.2
 streamlit==1.38.0
+ultralytics==8.3.0  # Or latest compatible
+opencv-python-headless==4.10.0.84
+
 streamlit-folium==0.17.0
 earthengine-api>=1.0.0
 geemap==0.36.0
@@ -30,8 +33,8 @@ streamlit-aggrid==1.1.1  # Data tables
 google.generativeai
 libgl1-mesa-glx
 libglib2.0-0
-opencv-python-headless
-ultralytics
+
+
 
 
 
