@@ -26,8 +26,9 @@ openpyxl
 reportlab  # PDF reports
 streamlit-aggrid==1.1.1  # Data tables
 google.generativeai
-cv2
+opencv-python
 ultralytics
+
 
 
 
