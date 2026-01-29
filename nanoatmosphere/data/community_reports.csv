@@ -1,0 +1,5 @@
+id,user,public_name,category,severity,city,lat,lon,description,timestamp,status,auto_verified,has_photo,photo_path
+5a4e6862,prolegendq7@gmail.com,prolegendq7@gmail.com,Smoke,3,new delhi ,28.6448,77.2167,full white smoke,2026-01-18 15:18:38,Resolved,True,False,
+1f47d93a,prolegendq7@gmail.com,Anonymous,Smoke,3,New Delhi,28.6791,77.0697,the road fully foggy ,2026-01-18 15:35:55,Under Review,True,True,
+d2ffc103,prolegendq7@gmail.com,Anonymous,Smoke,3,chennai,0.2,0.23,the meeting i attended is not good in ,2026-01-21 11:48:56,Under Review,False,False,
+76e6ec0a,prolegendq7@gmail.com,Anonymous,Smoke,4,delhi ,28.656,77.24,,2026-01-29 11:49:42,Resolved,True,False,
