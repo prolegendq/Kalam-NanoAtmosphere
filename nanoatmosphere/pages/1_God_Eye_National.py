@@ -21,7 +21,7 @@ if st.button("🏠 ← Back to Home", use_container_width=False):
 # 1) Load NO2 raster you exported from GEE
 @st.cache_resource
 def load_no2():
-    src = rasterio.open("data/NO2_Chennai.tif")
+    src = rasterio.open("nanoatmosphere/data/NO2_Chennai.tif")
     arr = src.read(1)
     bounds = src.bounds
     return src, arr, bounds
