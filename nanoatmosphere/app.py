@@ -251,7 +251,7 @@ def creator_card(
 
 # Creator 1
 creator_card(
-    photo_path="assets/creator1.jpg",  # put your image file here
+    photo_path="nanoatmosphere/assets/creator1.jpg",  # put your image file here
     name="ANNAMALAI M",
     title="FOUNDER & HEAD OF ENGINEERING",
     paragraph=(
@@ -265,7 +265,7 @@ creator_card(
 
 # Creator 2
 creator_card(
-    photo_path="assets/creator2.jpg",
+    photo_path="nanoatmosphere/assets/creator2.jpg",
     name="NL AADHITYA KUMAR",
     title="FOUNDER & TECHNICAL LEAD",
     paragraph=(
