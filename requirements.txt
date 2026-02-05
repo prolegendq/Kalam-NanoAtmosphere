@@ -27,7 +27,8 @@ reportlab  # PDF reports
 streamlit-aggrid==1.1.1  # Data tables
 
 
-torch==2.5.1
+
+
 
 
 
