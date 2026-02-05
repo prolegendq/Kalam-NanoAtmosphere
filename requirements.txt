@@ -1,38 +1,31 @@
 pip==25.3
 rich==13.7.1
+markdown-it-py==3.0.0
+mdurl==0.1.2
+streamlit==1.38.0
 streamlit-webrtc==1.4.1
 av==12.3.0
-streamlit==1.38.0
 ultralytics==8.3.0
 opencv-python-headless==4.10.0.84
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu  # CPU-only for cloud
-
-
 streamlit-folium==0.17.0
-earthengine-api>=1.0.0
+earthengine-api==0.1.418
 geemap==0.36.0
-google-genai
-pandas
-numpy
-scikit-learn
-
-rasterio
-folium
+google-generativeai==0.8.6
+pandas==2.2.3
+numpy==2.1.1
+scikit-learn==1.5.2
+rasterio==1.4.0
+folium==0.20.0
 plotly==5.24.1
-torch
-torchvision
-torchaudio --index-url https://download.pytorch.org/whl/cpu  # Lite ML
-requests
-beautifulsoup4
-pyyaml
-pytest
-black
-flake8
-mypy  # Pro devops
-openpyxl
-reportlab  # PDF reports
-streamlit-aggrid==1.1.1  # Data tables
-google.generativeai
+streamlit-aggrid==1.1.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+pyyaml==6.0.2
+openpyxl==3.1.5
+reportlab==4.2.5
+torch==2.5.1+cpu torchvision==0.20.1+cpu torchaudio==2.5.1+cpu --index-url https://download.pytorch.org/whl/cpu
+
+
 
 
 
