@@ -8,7 +8,7 @@ google-generativeai==0.8.3
 pandas
 numpy
 scikit-learn
-
+bcrypt
 rasterio
 folium
 plotly==5.24.1
@@ -25,6 +25,7 @@ mypy  # Pro devops
 openpyxl
 reportlab  # PDF reports
 streamlit-aggrid==1.1.1  # Data tables
+
 
 
 
