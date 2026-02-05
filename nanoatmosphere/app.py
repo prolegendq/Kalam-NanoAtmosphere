@@ -104,7 +104,7 @@ with st.sidebar:
         st.page_link("pages/7_City_Intelligence.py", label=" 🌆City Intelligence")
         st.page_link("pages/8_Pollution_Alerts.py", label=" 📢Pollution Alerts")
         st.page_link("pages/9_Community_Hub.py", label=" 🌐Community Hub")
-        st.page_link("pages/10_Traffic_intelligence.py", label="🚗Trafiic Intellligance")
+       
         # Admin-only link
         if st.session_state.get("user_email") == "prolegendq7@gmail.com":
             st.page_link("pages/6_Admin_Panel.py", label="⚙️ Admin Panel")
